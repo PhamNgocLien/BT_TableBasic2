@@ -1,0 +1,32 @@
+table {
+    width: 700px;
+}
+.table1 {
+    color: blue;
+    padding: 10px;
+}
+th {
+    font-size: 30px;
+}
+.right {
+    text-align: right;
+}
+.table2 {
+    border-collapse: collapse;
+}
+.table2 td {
+    border: 1px solid black;
+}
+.yellow {
+    background-color: yellow;
+    text-align: center;
+    font-weight: bold;
+}
+.orange {
+    background-color: orange;
+    text-align: center;
+    font-weight: bold;
+}
+.STT {
+    text-align: center;
+}
